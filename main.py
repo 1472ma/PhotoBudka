@@ -52,6 +52,8 @@ if __name__ == "__main__":
 
 			if effects > 0:
 				read_face = False
+				#ewdrfgbkhjfdl;scb vmgfd
+				#sdfkls;drfgdsfd efddfd
 			else:
 				cv2.putText(frame, 'Come to camera plz' ,(10,50), cv2.FONT_HERSHEY_COMPLEX_SMALL, 0.9,(128,200,255),2)
 		#применение фильтра 
